@@ -28,5 +28,3 @@ chmod +x meteobot.py
 ./meteobot.py
 
 # per utilizzare il bot sarà necessario avere un token generato tramite botfather e una chiave api generata tramite openweather
-
-![Descrizione dell'immagine](https://i.postimg.cc/GtTKjxkn/IMG-20240417-190232-342.jpg)
