@@ -1,5 +1,4 @@
 # meteo
-questo strumento ti fornirà le informazioni meteo dell'intero globo terrestre.
 
 git clone https://github.com/ItaliansProject/meteo.git
 
