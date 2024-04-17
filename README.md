@@ -1,3 +1,5 @@
+![Descrizione dell'immagine](https://i.postimg.cc/YS0kqhh6/IMG-20240417-161303-455.jpg)
+
 # meteo
 
 git clone https://github.com/ItaliansProject/meteo.git
