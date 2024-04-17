@@ -10,3 +10,4 @@ chmod +x meteo.py
 
 ./meteo.py
 
+# meteobot
