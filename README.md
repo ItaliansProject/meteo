@@ -2,7 +2,7 @@
 
 # meteo
 
-git clone https://github.com/ItaliansProject/meteo.git
+git clone https://github.com/ItaliansProjects/meteo
 
 cd meteo
 
@@ -17,7 +17,7 @@ chmod +x meteo.py
 
 # meteobot
 
-git clone https://github.com/ItaliansProject/meteo.git
+git clone https://github.com/ItaliansProjects/meteo
 
 cd meteo
 
