@@ -12,6 +12,8 @@ chmod +x meteo.py
 
 ./meteo.py
 
+![Descrizione dell'immagine](https://i.postimg.cc/L5XjxkXq/IMG-20240417-185052-826.jpg)
+
 # meteobot
 
 git clone https://github.com/ItaliansProject/meteo.git
@@ -25,5 +27,3 @@ chmod +x meteobot.py
 ./meteobot.py
 
 # per utilizzare il bot sarà necessario avere un token generato tramite botfather e una chiave api generata tramite openweather
-
-![Descrizione dell'immagine](https://i.postimg.cc/L5XjxkXq/IMG-20240417-185052-826.jpg)
